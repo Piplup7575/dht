@@ -1,5 +1,5 @@
 # dht
-Discord History Tracker Viewer (Created by chylex)
+Discord History Tracker Viewer (Created by chylex), userscript version
 
 dht.chylex.com
 
